@@ -231,3 +231,34 @@ line-height: 32px;
 }
 
 /* contact styles */
+.left-right, .copyright {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-ref {
+  margin: 0 auto;
+  padding: 30px;
+}
+..social-ref img {
+  padding-right: 20px;
+}
+.contact-container {
+  background: #070211;
+  width: 1600px;
+  text-align: center;
+  padding: 100px;
+}
+
+.contact-container p {
+  color: white;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+}
+
+hr {
+  background: rgba(255, 255, 255, 0.15);
+  height: 1px;
+}
