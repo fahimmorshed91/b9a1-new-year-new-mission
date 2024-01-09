@@ -37,7 +37,6 @@ header {
 /* offer styles */
 .offer-container {
   margin: 50px auto;
-  width: 92px;
 }
 
 .offer-img {
@@ -242,7 +241,7 @@ line-height: 32px;
   padding: 30px;
 }
 ..social-ref img {
-  padding-right: 20px;
+  padding: 20px;
 }
 .contact-container {
   background: #070211;
