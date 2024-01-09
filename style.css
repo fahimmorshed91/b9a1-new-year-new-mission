@@ -37,6 +37,7 @@ header {
 /* offer styles */
 .offer-container {
   margin: 50px auto;
+  width: 92px;
 }
 
 .offer-img {
